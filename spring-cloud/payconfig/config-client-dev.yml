@@ -1,4 +1,1 @@
-server:
-  port: 8889
-book:
-  name: 分布式框架
+book: 分布式框架
